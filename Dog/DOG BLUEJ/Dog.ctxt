@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Dog
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Dog\ aqui.\r\n\ This\ class\ contains\ the\ information\ of\ a\ dog.\r\n\ @author\ (Rodrigo\ Ferreira\ Rodrigues)\ \r\n\ @version\ (14/05/2018\ \:\ 04\:10)\r\n
+comment1.params=DogName\ DogBreed\ DogAge\ DogColor
+comment1.target=Dog(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Dog\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Getters\r\n
+comment3.params=
+comment3.target=java.lang.String\ getBreed()
+comment4.params=
+comment4.target=int\ getAge()
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment6.params=
+comment6.target=void\ printDetails()
+comment6.text=\r\n\ M\u00E9todo\ que\ imprime\ o\ estado\ atual\ do\ cachorro.\r\n
+numComments=7

@@ -1,0 +1,23 @@
+CLASSE E OBJETOS EM JAVA
+
+- CLASSE
+
+   Uma classe é um blueprint(planta,forma), definida pelo usuário a partir da qual os objetos são criados. Um classe possui todas propriedades e metódos que são comuns
+a todos objetos instaciados a partir desta classe. 
+
+- COMPONENTES DE UMA CLASSE
+
+   <- Construtores: são usados para inicializar novos objetos.
+   <- Campos: são variáveis que fornecem o estado da classe e seus objetos.
+   <- Métodos: são usados para implementar o comportamente da classe e seus objetos.
+
+- OBJETOS
+ 
+   Um objeto é uma instância de uma classe, o qual representa o mundo real. Todo objeto possui atributos, métodos e estados, um objeto representa coisas do mundo real,
+seja concreto ou abstrato.
+  
+- CONSTRUTOR
+
+  Construtor é um método utilizado para inicializar um objeto, podemos reconhecer um construtor pelo seu nome, um construtor possui o nome igual a classe que o pertence.
+
+   
